@@ -4,6 +4,10 @@
   "description": "Recoil - A React state management library for complex UIs",
   "main": "dist/index.js",
   "files": [
+    "dist/recoil.production.native.js",
+    "dist/recoil.production.js",
+    "dist/recoil.development.native.js",
+    "dist/recoil.development.js",
     "dist/recoil.js"
   ],
   "repository": "https://github.com/facebookexperimental/recoil.git",
